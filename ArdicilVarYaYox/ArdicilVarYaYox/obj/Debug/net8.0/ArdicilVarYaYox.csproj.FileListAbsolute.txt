@@ -1,0 +1,14 @@
+C:\Users\elsad\source\repos\ArdicilVarYaYox\ArdicilVarYaYox\bin\Debug\net8.0\ArdicilVarYaYox.exe
+C:\Users\elsad\source\repos\ArdicilVarYaYox\ArdicilVarYaYox\bin\Debug\net8.0\ArdicilVarYaYox.deps.json
+C:\Users\elsad\source\repos\ArdicilVarYaYox\ArdicilVarYaYox\bin\Debug\net8.0\ArdicilVarYaYox.runtimeconfig.json
+C:\Users\elsad\source\repos\ArdicilVarYaYox\ArdicilVarYaYox\bin\Debug\net8.0\ArdicilVarYaYox.dll
+C:\Users\elsad\source\repos\ArdicilVarYaYox\ArdicilVarYaYox\bin\Debug\net8.0\ArdicilVarYaYox.pdb
+C:\Users\elsad\source\repos\ArdicilVarYaYox\ArdicilVarYaYox\obj\Debug\net8.0\ArdicilVarYaYox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsad\source\repos\ArdicilVarYaYox\ArdicilVarYaYox\obj\Debug\net8.0\ArdicilVarYaYox.AssemblyInfoInputs.cache
+C:\Users\elsad\source\repos\ArdicilVarYaYox\ArdicilVarYaYox\obj\Debug\net8.0\ArdicilVarYaYox.AssemblyInfo.cs
+C:\Users\elsad\source\repos\ArdicilVarYaYox\ArdicilVarYaYox\obj\Debug\net8.0\ArdicilVarYaYox.csproj.CoreCompileInputs.cache
+C:\Users\elsad\source\repos\ArdicilVarYaYox\ArdicilVarYaYox\obj\Debug\net8.0\ArdicilVarYaYox.dll
+C:\Users\elsad\source\repos\ArdicilVarYaYox\ArdicilVarYaYox\obj\Debug\net8.0\refint\ArdicilVarYaYox.dll
+C:\Users\elsad\source\repos\ArdicilVarYaYox\ArdicilVarYaYox\obj\Debug\net8.0\ArdicilVarYaYox.pdb
+C:\Users\elsad\source\repos\ArdicilVarYaYox\ArdicilVarYaYox\obj\Debug\net8.0\ArdicilVarYaYox.genruntimeconfig.cache
+C:\Users\elsad\source\repos\ArdicilVarYaYox\ArdicilVarYaYox\obj\Debug\net8.0\ref\ArdicilVarYaYox.dll
