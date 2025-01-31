@@ -1,0 +1,14 @@
+C:\Users\elsad\source\repos\ArrayChecking\ArrayChecking\bin\Debug\net8.0\ArrayChecking.exe
+C:\Users\elsad\source\repos\ArrayChecking\ArrayChecking\bin\Debug\net8.0\ArrayChecking.deps.json
+C:\Users\elsad\source\repos\ArrayChecking\ArrayChecking\bin\Debug\net8.0\ArrayChecking.runtimeconfig.json
+C:\Users\elsad\source\repos\ArrayChecking\ArrayChecking\bin\Debug\net8.0\ArrayChecking.dll
+C:\Users\elsad\source\repos\ArrayChecking\ArrayChecking\bin\Debug\net8.0\ArrayChecking.pdb
+C:\Users\elsad\source\repos\ArrayChecking\ArrayChecking\obj\Debug\net8.0\ArrayChecking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsad\source\repos\ArrayChecking\ArrayChecking\obj\Debug\net8.0\ArrayChecking.AssemblyInfoInputs.cache
+C:\Users\elsad\source\repos\ArrayChecking\ArrayChecking\obj\Debug\net8.0\ArrayChecking.AssemblyInfo.cs
+C:\Users\elsad\source\repos\ArrayChecking\ArrayChecking\obj\Debug\net8.0\ArrayChecking.csproj.CoreCompileInputs.cache
+C:\Users\elsad\source\repos\ArrayChecking\ArrayChecking\obj\Debug\net8.0\ArrayChecking.dll
+C:\Users\elsad\source\repos\ArrayChecking\ArrayChecking\obj\Debug\net8.0\refint\ArrayChecking.dll
+C:\Users\elsad\source\repos\ArrayChecking\ArrayChecking\obj\Debug\net8.0\ArrayChecking.pdb
+C:\Users\elsad\source\repos\ArrayChecking\ArrayChecking\obj\Debug\net8.0\ArrayChecking.genruntimeconfig.cache
+C:\Users\elsad\source\repos\ArrayChecking\ArrayChecking\obj\Debug\net8.0\ref\ArrayChecking.dll
