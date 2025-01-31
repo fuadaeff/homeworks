@@ -1,0 +1,14 @@
+C:\Users\elsad\source\repos\sortingArray\sortingArray\bin\Debug\net8.0\sortingArray.exe
+C:\Users\elsad\source\repos\sortingArray\sortingArray\bin\Debug\net8.0\sortingArray.deps.json
+C:\Users\elsad\source\repos\sortingArray\sortingArray\bin\Debug\net8.0\sortingArray.runtimeconfig.json
+C:\Users\elsad\source\repos\sortingArray\sortingArray\bin\Debug\net8.0\sortingArray.dll
+C:\Users\elsad\source\repos\sortingArray\sortingArray\bin\Debug\net8.0\sortingArray.pdb
+C:\Users\elsad\source\repos\sortingArray\sortingArray\obj\Debug\net8.0\sortingArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsad\source\repos\sortingArray\sortingArray\obj\Debug\net8.0\sortingArray.AssemblyInfoInputs.cache
+C:\Users\elsad\source\repos\sortingArray\sortingArray\obj\Debug\net8.0\sortingArray.AssemblyInfo.cs
+C:\Users\elsad\source\repos\sortingArray\sortingArray\obj\Debug\net8.0\sortingArray.csproj.CoreCompileInputs.cache
+C:\Users\elsad\source\repos\sortingArray\sortingArray\obj\Debug\net8.0\sortingArray.dll
+C:\Users\elsad\source\repos\sortingArray\sortingArray\obj\Debug\net8.0\refint\sortingArray.dll
+C:\Users\elsad\source\repos\sortingArray\sortingArray\obj\Debug\net8.0\sortingArray.pdb
+C:\Users\elsad\source\repos\sortingArray\sortingArray\obj\Debug\net8.0\sortingArray.genruntimeconfig.cache
+C:\Users\elsad\source\repos\sortingArray\sortingArray\obj\Debug\net8.0\ref\sortingArray.dll
