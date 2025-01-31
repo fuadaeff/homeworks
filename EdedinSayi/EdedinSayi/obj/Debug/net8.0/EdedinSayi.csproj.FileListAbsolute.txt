@@ -1,0 +1,14 @@
+C:\Users\elsad\source\repos\EdedinSayi\EdedinSayi\bin\Debug\net8.0\EdedinSayi.exe
+C:\Users\elsad\source\repos\EdedinSayi\EdedinSayi\bin\Debug\net8.0\EdedinSayi.deps.json
+C:\Users\elsad\source\repos\EdedinSayi\EdedinSayi\bin\Debug\net8.0\EdedinSayi.runtimeconfig.json
+C:\Users\elsad\source\repos\EdedinSayi\EdedinSayi\bin\Debug\net8.0\EdedinSayi.dll
+C:\Users\elsad\source\repos\EdedinSayi\EdedinSayi\bin\Debug\net8.0\EdedinSayi.pdb
+C:\Users\elsad\source\repos\EdedinSayi\EdedinSayi\obj\Debug\net8.0\EdedinSayi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsad\source\repos\EdedinSayi\EdedinSayi\obj\Debug\net8.0\EdedinSayi.AssemblyInfoInputs.cache
+C:\Users\elsad\source\repos\EdedinSayi\EdedinSayi\obj\Debug\net8.0\EdedinSayi.AssemblyInfo.cs
+C:\Users\elsad\source\repos\EdedinSayi\EdedinSayi\obj\Debug\net8.0\EdedinSayi.csproj.CoreCompileInputs.cache
+C:\Users\elsad\source\repos\EdedinSayi\EdedinSayi\obj\Debug\net8.0\EdedinSayi.dll
+C:\Users\elsad\source\repos\EdedinSayi\EdedinSayi\obj\Debug\net8.0\refint\EdedinSayi.dll
+C:\Users\elsad\source\repos\EdedinSayi\EdedinSayi\obj\Debug\net8.0\EdedinSayi.pdb
+C:\Users\elsad\source\repos\EdedinSayi\EdedinSayi\obj\Debug\net8.0\EdedinSayi.genruntimeconfig.cache
+C:\Users\elsad\source\repos\EdedinSayi\EdedinSayi\obj\Debug\net8.0\ref\EdedinSayi.dll
